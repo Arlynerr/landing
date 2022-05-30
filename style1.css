@@ -1,0 +1,30 @@
+
+
+
+
+.bannergf {
+  background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2
+  )), url('images/greencc.jpg');
+  background-color: #B5D99C;
+  background-size: cover;
+  background-position: center;
+  padding: 70px 0;
+  text-align: center;
+}
+
+.bannergf h1 {
+  color: white;
+  font-size: 70px;
+  margin: 0;
+  font-family: 'Satisfy', cursive;
+}
+
+.bannergf p {
+  color: white;
+  font-size: 25px;
+  font-family: 'Crimson Pro', serif;
+  margin-top: 0;
+}
+
+
+
